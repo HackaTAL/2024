@@ -26,30 +26,34 @@ L’événement aura lieu à Toulouse le 8 et 9 juillet 2024. Il est très large
 
 ### Défi proposé
 
-Commande vocale de robots à décrire (TBC)
+Des progrès considérables, scientifiques technologiques, ont été réalisés ces dernières années dans le domaine de la reconnaissance vocale. Il devient ainsi possible d'utiliser ou de mettre au point des modèles qui offrent des performances satisfaisantes en français, assez fiables lorsque loe vocabulaire est limité.
+
+Dans ce contexte, le défi que nous proposons pour la HackaTAL cette année porte sur la commande vocale.
+
+L'objectif sera de développer un système capable de piloter un robot à distance. Nous disposerons à cet effet de robots à roues (caracétristiques techniques TBC) qui peuvent être commandés par programmation python. Une librairie prototypique sera mise à disposition des participants, qui offre des fonctionnalités de pilotage basique (avancer, reculer, tourner, TBC). Pour les équipes, le défi consiste donc à réaliser un système de reconnaissance de la parole et d'interprétation des commandes qui soit à la fois fonctionnel et compréhensible sans trop de difficultés par une personne non experte.
 
 *Tâches*
 
-Deux tâches proposée par un robot et un parcours physique par étapes (TBU) : 
+Un parcours sera préparé, constitué d'étapes, l'objectif étant que le robot le traverse dans un temps limité, uniquement par commandes. Le défi est décliné en trois tâches (TBC) : 
 
-1. Interagir avec le robot
-1. Vocaliser une séquence complète
-1. Fournir un manuel pour piloter le robot
+1. Un membre de l'équipe interagit avec le robot afin de le piloter en temps réel
+1. Un membre de l'équipe vocalise l'ensemble des instructions en une fois, le robot doit ensuite les exécuter
+1. Un manuel, réalisé par l'équipe, est donné à une personne extérieure à l'équipe en prend connaissance et doit interagir avec le robot pour traverser le parcours.
 
 *Ressources*
 
 Les ressources mises à disposition pour ce défi : 
 
-- Moteur de reconnaissance vocale
-- Module de pilotage du robot
+- Moteur de reconnaissance vocale (OpenAI Whisper, FaceBook MMS, TBC)
+- Module de pilotage du robot (TBC)
 
 ### Prix
 
-Deux prix seront (peut-être) décernés... (vocal vs robotique)
+TBC
 
 ### Planning prévisionnel
 
-**Lundi 8 juillet** (où ?)
+**Lundi 8 juillet** (où ? TBC)
 
 - 10h-11h : introduction, présentation du hackathon
 - 11h-13h : discussions par groupes
@@ -60,7 +64,7 @@ Deux prix seront (peut-être) décernés... (vocal vs robotique)
 - 19h-21h : cocktail et buffet
 - 21h-23h : développements par équipes
 
-**Mardi 9 juillet** (où ?)
+**Mardi 9 juillet** (où ? TBC)
 
 - ??h-??h : restitution des équipes, vote, remise du prix
 
@@ -70,7 +74,7 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants 
 
-### Plan d'accés à SCAI
+### Plan d'accés
 
 TBC
 
