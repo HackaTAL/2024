@@ -20,15 +20,13 @@ Fil twitter : https://twitter.com/hashtag/HackaTAL
 
 Dans le cadre de la conférence JEP TALN RECITAL 2024, nous organisons la 6ème édition du hackathon en TAL (Traitement Automatique des Langues), le HackaTAL 2024. L’objectif est de réunir les communautés scientifiques TAL et au delà, autour de défis à relever pour questionner, interroger, modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. par équipes, dans une ambiance dynamique et sympathique !
 
-La tâche proposée cette année porte sur la commande vocale de robots.
+La tâche proposée cette année porte sur la **commande vocale de robots**.
 
 L’événement aura lieu à Toulouse le 8 et 9 juillet 2024. Il est très largement ouvert à tous : juniors et séniors, informaticiens, linguistes, politologues, juristes, sociologues, etc. et ne nécessite aucune préparation particulière ni de compétences spécifiques... toute personne intéressée est bienvenue  pour apporter sa contribution aux travaux collaboratifs (par équipes) que nous réaliserons sur ces deux jours !
 
 ### Défi proposé
 
-Des progrès considérables, scientifiques technologiques, ont été réalisés ces dernières années dans le domaine de la reconnaissance vocale. Il devient ainsi possible d'utiliser ou de mettre au point des modèles qui offrent des performances satisfaisantes en français, assez fiables lorsque loe vocabulaire est limité.
-
-Dans ce contexte, le défi que nous proposons pour la HackaTAL cette année porte sur la commande vocale.
+Des progrès considérables, scientifiques technologiques, ont été réalisés ces dernières années dans le domaine de la reconnaissance vocale. Il devient ainsi possible d'utiliser ou de mettre au point des modèles qui offrent des performances et qui sont d'autant fiables lorsque le vocabulaire est limité. Dans ce contexte, le défi que nous proposons pour la HackaTAL cette année porte sur la commande vocale.
 
 L'objectif sera de développer un système capable de piloter un robot à distance. Nous disposerons à cet effet de robots à roues (caracétristiques techniques TBC) qui peuvent être commandés par programmation python. Une librairie prototypique sera mise à disposition des participants, qui offre des fonctionnalités de pilotage basique (avancer, reculer, tourner, TBC). Pour les équipes, le défi consiste donc à réaliser un système de reconnaissance de la parole et d'interprétation des commandes qui soit à la fois fonctionnel et compréhensible sans trop de difficultés par une personne non experte.
 
