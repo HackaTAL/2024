@@ -1,6 +1,6 @@
 ![HackaTAL 2024](https://raw.githubusercontent.com/HackaTAL/2024/gh-pages/HackaTAL_2024.png)
 
-# Robotique
+# Commande vocale de robots
 
 ## HackaTAL 2024
 ---------------
