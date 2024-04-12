@@ -44,9 +44,7 @@ Nous disposerons de quelques exemples de robots, dont nous ppréciserons progres
 
 ![Image du robot](https://raw.githubusercontent.com/HackaTAL/2024/gh-pages/robot.png)
 
-![Vidéo du robot](https://raw.githubusercontent.com/HackaTAL/2024/gh-pages/robot.mp4)
-
-Les ressources mises à disposition pour ce défi : 
+Nous mettrons à disposition des librairies logicielles en Python pour aider à implémenter deux éléments : 
 
 - moteur de reconnaissance vocale
 - module de pilotage du robot
