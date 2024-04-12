@@ -9,11 +9,11 @@ avec la conférence JEP TALN RECITAL 2024
 
 ### Résumé
 
-Tâches : Commande vocale de robots
+Tâches : Commande vocale de robots  
 Site web : http://hackatal.github.io/2024  
 Dates : 8 et 9 juillet 2024  
-Lieu : Université Toulouse Jean-Jaurès (bâtiment et salles à préciser)
-Inscription : https://framaforms.org/inscription-au-hackatal-2024-1712932774
+Lieu : Université Toulouse Jean-Jaurès (bâtiment et salles à préciser). 
+Inscription : https://framaforms.org/inscription-au-hackatal-2024-1712932774  
 Fil twitter : https://twitter.com/hashtag/HackaTAL  
 
 ### Le HackaTAL
@@ -28,7 +28,7 @@ L’événement aura lieu à Toulouse le 8 et 9 juillet 2024. Il est très large
 
 Des progrès considérables, scientifiques technologiques, ont été réalisés ces dernières années dans le domaine de la reconnaissance vocale. Il devient ainsi possible d'utiliser ou de mettre au point des modèles qui offrent des performances et qui sont d'autant fiables lorsque le vocabulaire est limité. Dans ce contexte, le défi que nous proposons pour la HackaTAL cette année porte sur la commande vocale.
 
-L'objectif sera de développer un système capable de piloter un robot à distance. Nous disposerons à cet effet de à roues qui peuvent être commandés par programmation. Une librairie prototypique sera mise à disposition des participants, qui offre des fonctionnalités de pilotage basique (avancer, reculer, tourner, etc.). Pour les équipes, le défi consiste donc à réaliser un système de reconnaissance de la parole et d'interprétation des commandes qui soit à la fois fonctionnel et compréhensible sans trop de difficultés par une personne non experte.
+L'objectif sera de développer un système capable de piloter un robot à distance. Nous disposerons à cet effet de robots à roues qui peuvent être commandés par programmation. Une librairie prototypique sera mise à disposition des participants, qui offre des fonctionnalités de pilotage basique (avancer, reculer, tourner, etc.). Pour les équipes, le défi consiste donc à concevoir, en aval d'un système de reconnaissance de la parole, un système de pilotage du robot par commande, qui soit à la fois précis et compréhensible sans trop de difficultés par une personne non experte.
 
 *Tâches*
 
