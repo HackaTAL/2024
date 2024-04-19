@@ -82,7 +82,7 @@ Aucune préparation requise des participants
 - Florian Boyer (AIrudit)
 - Chloé Braud (IRIT)
 - Angélique Burault (AIrudit)
-- Isabelle Feranné (IRIT)
+- Isabelle Ferrané (IRIT)
 - Kévin Gravouil (AIrudit)
 - Philippe Lebas (AIrudit)
 - Jean-Pierre Lorre (Linagora)
