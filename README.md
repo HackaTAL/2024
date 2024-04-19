@@ -49,9 +49,9 @@ Nous mettrons à disposition des librairies logicielles en Python pour aider à 
 - moteur de reconnaissance vocale
 - module de pilotage du robot
 
-### Prix AIrudit et Linagora
+### Prix AIrudit et LINAGORA
 
-Nos sponsors, AIrudit et Linagora, décerneront deux prix aux équipes, sur la base d'un vote des participants et des organisateurs.
+Nos sponsors, AIrudit et LINAGORA, décerneront deux prix aux équipes, sur la base d'un vote des participants et des organisateurs.
 
 ### Planning prévisionnel
 
@@ -78,14 +78,14 @@ Aucune préparation requise des participants
 
 ### Organisateurs
 
-- Audran Bert (Linagora)
+- Audran Bert (LINAGORA)
 - Florian Boyer (AIrudit)
 - Chloé Braud (IRIT)
 - Angélique Burault (AIrudit)
 - Isabelle Ferrané (IRIT)
 - Kévin Gravouil (AIrudit)
 - Philippe Lebas (AIrudit)
-- Jean-Pierre Lorre (Linagora)
+- Jean-Pierre Lorre (LINAGORA)
 - Damien Nouvel (Inalco ERTIM)
 - Julien Pinquier (IRIT)
-- Catherine Thompson (Linagora)
+- Catherine Thompson (LINAGORA)
