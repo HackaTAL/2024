@@ -79,7 +79,7 @@ BYOD (amenez votre ordinateur)
 Pas de critères pour participer, le hackathon est ouvert à tous !  
 Aucune préparation requise des participants 
 Voici le plan pour trouver la Bulle  à la bibliothèque  
-![Plan du Mirail](https://raw.githubusercontent.com/HackaTAL/2024/gh-pages/Plan_Mirail.pdf)
+![Plan du Mirail](https://raw.githubusercontent.com/HackaTAL/2024/gh-pages/Plan_Mirail.png)
 
 ### Organisateurs
 
