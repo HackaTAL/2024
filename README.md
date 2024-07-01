@@ -47,7 +47,7 @@ Nous disposerons de quelques exemples de robots, dont nous préciserons progress
 Nous mettrons à disposition des librairies logicielles en Python pour aider à implémenter deux éléments :
 
 - moteur de reconnaissance vocale
-- module de pilotage du robot : https://gitlab.irit.fr/melodi/hackatal_robot24
+- module de pilotage du robot
 
 ### Prix AIrudit et LINAGORA
 
