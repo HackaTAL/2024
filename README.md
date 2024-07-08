@@ -12,7 +12,7 @@ avec la conférence JEP TALN RECITAL 2024
 Tâches : Commande vocale de robots  
 Site web : http://hackatal.github.io/2024  
 Dates : 8 et 9 juillet 2024  
-Lieu : Université Toulouse Jean-Jaurès, Bibliothèque Unversitaire, la Bulle (plan ci-dessous)  
+Lieu : Université Toulouse Jean-Jaurès, Bibliothèque Universitaire, la Bulle (plan ci-dessous)  
 Inscription : https://framaforms.org/inscription-au-hackatal-2024-1712932774  
 Fil twitter : https://twitter.com/hashtag/HackaTAL  
 
@@ -64,7 +64,7 @@ Nos sponsors décerneront deux prix sur la base d'un vote des participants et de
 - 11h-12h : discussions par groupes
 - 12h-14h : pause déjeuner
 - 14h-17h : développements par équipes
-- 18h-19h : présentation invitée
+- 18h-19h : présentations intermédiaires
 - 19h-21h : cocktail et buffet
 - 21h-23h : développements par équipes
 
