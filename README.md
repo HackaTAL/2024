@@ -68,7 +68,7 @@ Nos sponsors décerneront deux prix sur la base d'un vote des participants et de
 - 19h-21h : cocktail et buffet
 - 21h-23h : développements par équipes
 
-**Mardi 9 juillet** dans la Bulle et en hybride (lien Zoom à venir)
+**Mardi 9 juillet** en hybride dans la Bulle et sur Zoom https://zoom.us/j/93423239501
 
 - 10h-11h : présentation des travaux réalisés par les équipes
 - 11h-12h : remise des prix et conclusion
